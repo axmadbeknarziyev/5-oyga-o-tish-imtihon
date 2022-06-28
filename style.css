@@ -1,0 +1,48 @@
+.leftText{
+    font-weight: bold;
+    font-size: 30px;
+}
+.card img{
+    width: 60%;
+    height: 200px;
+    margin-left: 60px;
+    object-fit: contain;
+}
+.card{
+    border-radius: 30px;
+    width: 350px;
+    height: 400px;
+    box-shadow: 2px 4px 9px 7px rgba(221, 219, 219, 0.9);
+}
+.fa-regular{
+    font-size: 25px;
+}
+.fa-solid{
+    font-size: 25px;
+}
+.circle{
+    border-radius: 40px;
+}
+.Pro{
+    padding-top: 45px;
+}
+.btn{
+    width: 150px;
+    margin-left: 80px;
+}
+ul{
+    list-style-type: none; 
+}
+.footer{
+    background-color: rgba(252, 246, 246, 0.898);
+    width: 85%;
+    margin-left: 5%;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    height: 140px;
+    padding-top: 40px;
+    border-radius: 30px;
+}
+.footerIcon{
+    font-size: 35px;
+}
